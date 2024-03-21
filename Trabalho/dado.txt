@@ -1,0 +1,15 @@
+
+ == CLiente == 
+ Nome...: a
+ Cpf..: a
+ RG: a
+ telefone: a
+ Endereco..: a
+    ========***********========
+ == CLiente == 
+ Nome...: asasasas
+ Cpf..: a
+ RG: a
+ telefone: a
+ Endereco..: a
+    ========***********========
